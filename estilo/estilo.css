@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+.textoimg{
+    position: absolute;
+    top: 0%;
+    left: 36%;
+    text-shadow: 3px 5px 9px rgb(0,0, 0);
+}
+.imgquadrada{
+    padding: 0px;
+    margin: 0px;
+    border-radius: 5px;
+    width: 100%;
+    height: 80%;
+}
+#prod{
+    border-radius: 5px;
+    margin: 100px;
+    padding: 50px;
+    background-color: #801a5c44;
+    text-align: center;
+}
+.textolimpo{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.493);
+    padding: 0px;
+    margin: 0px;
+    color: #801A5C;
+    font-family: montserrat;
+}
+.box{
+    
+    font-size: 30px;
+    background-color: #FFE1E1;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    display: inline-block;
+    width: 300px;
+    height: 350px;
+    
+    
+    border-radius: 10px;
+}
+#pensaorquidea{
+    font-family: Dancing Script;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 80px;
+    color: #801A5C;
+}
+#economizaflor{
+    font-family: Montserrat;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: #801A5C;
+    font-size: 29px;
+}
+#aluguel{
+    font-size: 55px;
+    text-align: center;
+    border-radius: 9px;
+    background-color: #801a5cae;
+    font-family: Dancing Script;
+    margin: 100px;
+    padding: 0px;
+    color: #FFE1E1;
+    
+}
+#item{
+    
+    text-align: center;
+    list-style: none;
+}
+.imgdoindex{
+    display: inline-block;
+    position: relative;
+}
+#flordoindex{
+    width: 100%;
+}
+body{
+    background-color: #FFE1E1;
+    margin: 0px;
+    padding: 0px;
+}
+.imgtras{
+    display: inline-block;
+    position: relative;
+}
+.fonte_destaque2{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: #E9C6DB;
+    font-family: Dancing Script, cursive;
+    font-size: 110px;
+}
+.fonte_destaque{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: #801A5C;
+    font-family: Dancing Script, cursive;
+    font-size: 110px;
+}
+.fonte_padrao2{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: Montserrat;
+    color: #E9C6DB;
+    font-size: 3cap;
+}
+.fonte_padrao{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: Montserrat;
+    color: #801A5C;
+    font-size: 20px;
+}
+#transparencia{
+    width: 100%;
+    background-color: #801A5C;
+}
+
+.cabecalho {
+    background-color: #801A5C;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+#logo{
+    text-align: start;
+}
+#nomemarca {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#ferllu {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+    padding: 0;
+    color: #FFE1E1;
+    display: inline-block;
+    vertical-align: middle;
+}
+#nomemarca{
+    text-align: center;
+}
+
+#logoferluimg {
+    height: 90px;
+    width: 90px;
+    vertical-align: middle;
+}
+#caixamenu{
+    margin: 0px;
+    padding: 5px;
+    background-color: #9B5388;
+}
+.listanonum{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    list-style-type: none;
+}
+.textomenu{
+    margin: 50px;
+    color: #FFE1E1;
+    font-family: Montserrat;
+    display:inline;
+}
+.link{
+    font-size: 1.7cap;
+    text-decoration: none;
+    color: currentColor;
+}
+.dancingFont{
+    font-family:Dancing Script;
+}
+#icoinsta{
+    background-color: #E9C6DB;
+    border-radius: 20px;
+    margin: 8px;
+    width: 80px;
+    height: 80px;
+}
+#icowhats{
+    background-color: #E9C6DB;
+    border-radius: 20px;
+    margin: 2px;
+    width: 80px;
+    height: 80px;
+}
+#floricultura{
+    font-family: Montserrat;
+}
+.rodape{
+    background-color: #801A5C;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 5px;
+    margin-top: 30px;
+}
+.ferlluFlo{
+    color: #FFE1E1;
+    font-size: 60px;
+    font-family: Dancing Script;
+}
+.rodapetext{
+    color: #FFE1E1;
+    font-weight: lighter;
+}
